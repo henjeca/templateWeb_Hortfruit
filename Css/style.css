@@ -1,0 +1,105 @@
+
+*{margin: 0px; padding: 0px;}
+
+.body{font-family: "DM Sans", sans-serif; background-color: #F7F9F9; }
+
+nav{background-color: #003a31; }
+
+.titulo1{color: #061800; font-weight: bold; font-size: 3em; margin-bottom: 10px;} 
+
+.pverde{font-weight: bold; color: #00856F;}
+
+.pcinza{color: #384633; margin-bottom: 40px;}     
+
+.figureNav{width: 30%; 
+          height: 100% ;
+          margin: auto; }
+
+
+.itens{text-align: center; 
+        margin: auto; 
+        font-family: "DM Sans", sans-serif;}
+
+.pesquisa{background-color: #003a31; 
+        border-color: #F7F9F9; 
+        border-radius: 50px; 
+        text-align: center;
+        color: #F7F9F9;
+        }
+
+.Iconpesquisa{background-color: #003a31; 
+                border: none;               
+                color: #F7F9F9; }
+
+
+#form{padding: 0%; margin: auto;}
+
+#divInicio{padding: 40px;}
+
+.btnFazerPedido{ background-color: #003a31; 
+                color: #F7F9F9; 
+                text-decoration: none; 
+                padding: 10px; 
+                border-radius: 20px;
+        
+}
+
+.sectionStatus{background: rgb(220,233,226);
+               background: linear-gradient(0deg, rgba(220,233,226,1) 50%, rgba(247,249,249,1) 50%);}
+
+.divStatus{text-align: center; 
+           background-color: #fbf2e2; 
+           width: 80%; margin: auto; 
+           border-radius: 10px;
+           padding: 20px;
+}
+
+#divFigura{margin-bottom: -55px;}
+
+#divServicos{ background-color: #DCE9E2; 
+              padding-top: 30px; 
+              justify-content: end; }
+
+#h2vantagens{color: #061800; 
+        font-weight: bold; 
+        font-size: 2em; 
+        margin-bottom: 35px;}
+
+.h2cards{color: #061800; 
+        font-weight: bold; 
+        font-size:max(15px, 1.5vw ) ; 
+        margin-bottom: 10px;}
+
+.pCards{font-size:min(16px, 5vw )}
+
+.cardsVatagens{border: solid 1px; 
+                border-radius: 5px; 
+                border-color:#06180038; 
+                width: 95%;  
+                padding: 10px; 
+                height: 180px; 
+                margin-top: 10px; 
+                margin-left: auto; 
+                margin-right: auto;}
+
+
+#divSobre{background-color: #DCE9E2; 
+        padding-top: 100px; 
+        padding-inline: 5%; 
+        padding-bottom: 5%; }
+
+#footer{background-color: #003a31; 
+        height: auto; 
+        padding: 30px; }
+
+.figureFooter{ width: 200px; }
+
+.pFooter{color: #DCE9E2;
+        font-size: 14px; 
+        margin: 3px;}
+
+.caixaBoxShadow{
+        -webkit-box-shadow: -2px 23px 34px -7px rgba(0,0,0,0.44);
+        -moz-box-shadow: -2px 23px 34px -7px rgba(0,0,0,0.44);
+        box-shadow: -2px 23px 34px -7px rgba(0,0,0,0.44);
+}
